@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://trustsourcing.github.io/WeatherIt.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://avatars2.githubusercontent.com/u/11757058?v=3&amp;u=972201cd0dd62226a1ef0bed346ffe1706ea48a7&amp;s=140</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://avatars2.githubusercontent.com/u/11757058?v=3&amp;u=972201cd0dd62226a1ef0bed346ffe1706ea48a7&amp;s=140</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -35,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WeatherIt</string>
+				<string>Weather It!</string>
 			</dict>
 		</dict>
 	</array>
